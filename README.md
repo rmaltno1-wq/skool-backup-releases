@@ -16,11 +16,11 @@ Skool Scraper is a local desktop application designed to help you back up and ar
 
 ## 💾 Downloads (Releases)
 
-Download the latest installer for your operating system from the **Releases** section:
+Download the latest installer for your operating system:
 
-*   🍏 **macOS (Universal)**: [Download Skool-Scraper-Mac.dmg](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/releases/latest/download/Skool-Scraper-Mac.dmg)
+*   🍏 **macOS (Universal)**: [Download Skool-Scraper-Mac.dmg](https://github.com/rmaltno1-wq/skool-backup-releases/releases/download/1.0.0/Skool-Scraper-Mac.dmg)
     *(Compatible with both Intel and M1/M2/M3/M4 Apple Silicon Macs)*
-*   🪟 **Windows (x64)**: [Download Skool-Scraper-Win.exe](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/releases/latest/download/Skool-Scraper-Win.exe)
+*   🪟 **Windows (x64)**: [Download Skool-Scraper-Win.exe](https://github.com/rmaltno1-wq/skool-backup-releases/releases/download/1.0.0/Skool-Scraper-Win.exe)
     *(Compatible with 64-bit Windows 10/11)*
 
 ---
